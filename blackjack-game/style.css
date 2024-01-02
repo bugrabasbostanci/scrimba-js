@@ -1,0 +1,27 @@
+body {
+  background-image: url(https://i5.walmartimages.com/asr/ea0c3c27-ff4b-4780-9030-58db49ce5c86.2f3262fc0ae8d289cd0ad5a8ed18f430.png);
+  background-size: cover;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  color: #016f32;
+  width: 150px;
+  background-color: goldenrod;
+  border: none;
+  padding: 5px 0;
+  font-weight: bold;
+  border-radius: 2px;
+}
